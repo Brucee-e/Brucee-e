@@ -1,6 +1,6 @@
 👋 Hi, I’m @Brucee-e
-👀 I’m interested in the moment on javascript
-🌱 I’m currently learning javascript, if you can help me I'll be greatful
+👀 I’m interested in the moment on c language
+🌱 I’m currently learning c language, if you can help me I'll be greatful
 💞️ I’m looking to collaborate, well with anything yet
 📫 How to reach me, send me a message here, I'll answer when I see it
 
